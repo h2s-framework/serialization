@@ -1,5 +1,5 @@
 {
-  "name": "siarkowodor/serialization",
+  "name": "h2sf/serialization",
   "description": "Serialization library",
   "minimum-stability": "stable",
   "license": "proprietary",
@@ -12,7 +12,7 @@
     }
   ],
   "require": {
-    "siarkowodor/h2s-utils": "*"
+    "h2sf/utils": "*"
   },
   "autoload": {
     "psr-4": {
