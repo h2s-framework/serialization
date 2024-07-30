@@ -1,0 +1,4 @@
+id: Siarko.Serialization.default
+
+types:
+  \Siarko\Serialization\Api\SerializerInterface: \Siarko\Serialization\Json\JsonSerializer
