@@ -3,7 +3,6 @@
   "description": "Serialization library",
   "minimum-stability": "stable",
   "license": "proprietary",
-  "version": "0.1.1",
   "type": "library",
   "authors": [
     {
@@ -12,8 +11,8 @@
     }
   ],
   "require": {
-    "h2sf/utils": "^0.1.3",
-    "h2sf/api": "^0.1.1"
+    "h2sf/utils": "^0.3",
+    "h2sf/api": "^0.3"
   },
   "autoload": {
     "psr-4": {
